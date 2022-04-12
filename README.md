@@ -4,4 +4,6 @@
   <img align="left" alt="Nicola's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+Stats: 
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicolagulmini&show_icons=true&theme=gotham" alt="nicolagulmini" />
