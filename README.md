@@ -5,5 +5,3 @@
 </a><a href="https://www.instagram.com/nicolagulmini/"><img align="left" alt="Nicola's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 
 ---
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicolagulmini&show_icons=true&theme=gotham" alt="nicolagulmini" />
