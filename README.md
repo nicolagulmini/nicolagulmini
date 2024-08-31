@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
-<h3 align="center">A passionate software developer and guitar player from Italy</h3>
+<h3 align="center">a passionate software developer and guitar player from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolagulmini&label=Profile%20views&color=0e75b6&style=flat" alt="nicolagulmini" /> </p>
 
 - 🔭 My current personal project is [**ANTARCTICA**](https://github.com/nicolagulmini/plugins/tree/main/ANTARCTICA), watch the state of play (Aug 2024) [here](https://www.youtube.com/watch?v=fd3KFXBRHJo)!
 
-- 🌱 I’m currently learning **PyTorch, FastAPI, uvicorn, Selenium, Scrapy**
+- 🌱 I’m currently learning **PyTorch, FastAPI, Selenium, Scrapy**
 
-- 📫 How to reach me **nicolagulmini@gmail.com**
+- 📫 How to reach me: **nicolagulmini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
