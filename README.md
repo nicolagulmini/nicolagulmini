@@ -5,7 +5,7 @@
 
 - 🔭 My current personal project is [**ANTARCTICA**](https://github.com/nicolagulmini/plugins/tree/main/ANTARCTICA), watch the state of play (Aug 2024) [here](https://www.youtube.com/watch?v=fd3KFXBRHJo)!
 
-- 🌱 I’m currently learning **JUCE, PyTorch, FastAPI, Scrapy**
+- 🌱 I’m currently learning **JUCE, PyTorch, FastAPI, Scrapy**. Take a look at the [experiments](experiments) repo! 
 
 - 📫 How to reach me: **nicolagulmini@gmail.com**
 
