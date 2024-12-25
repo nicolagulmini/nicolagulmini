@@ -5,7 +5,7 @@
 
 - 🔭 My current personal project is [**ANTARCTICA**](https://github.com/nicolagulmini/plugins/tree/main/ANTARCTICA), watch the state of play (Aug 2024) [here](https://www.youtube.com/watch?v=fd3KFXBRHJo)!
 
-- 🌱 I’m currently learning **JUCE, Swift, Flutter**. Take a look at the [experiments](https://github.com/nicolagulmini/experiments) repo! 
+- 🌱 I’m currently learning **JUCE, Swift, CoreML, swift-transformers, Flutter**. Take a look at the [experiments](https://github.com/nicolagulmini/experiments) repo! 
 
 - 📫 How to reach me: **nicolagulmini@gmail.com**
 
