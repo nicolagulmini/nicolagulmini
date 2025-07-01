@@ -7,7 +7,7 @@
 
 - 🎥 Also check out [**Lissa**](https://github.com/nicolagulmini/Lissa), my app for generating Lissajous figures. I had a lot of fun building it and creating the [video presentation](https://youtu.be/_66SNrt6bb0).
 
-- 🌱 I’m currently learning **LangChain, LangGraph, Swift, Dart (Flutter), JUCE**...
+- 🌱 I’m currently learning **LangChain, LangGraph, Swift, Dart (Flutter), JUCE... and Strudel**
 
 - 📫 How to reach me: **nicolagulmini@gmail.com**
 
