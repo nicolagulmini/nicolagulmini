@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolagulmini&label=Profile%20views&color=0e75b6&style=flat" alt="nicolagulmini" /> </p>
 
-- 🔭 Watch the current state of [**ANTARCTICA**](https://github.com/nicolagulmini/plugins/tree/main/ANTARCTICA), a plugin I am developing, as of August 2024, in [this video](https://www.youtube.com/watch?v=fd3KFXBRHJo)
+- 🔭 Watch the current state of [**ANTARCTICA**](https://github.com/nicolagulmini/ANTARCTICA), a plugin I am developing, as of August 2024, in [this video](https://www.youtube.com/watch?v=fd3KFXBRHJo)
 
 - 🎥 Also check out [**Lissa**](https://github.com/nicolagulmini/Lissa), my app for generating Lissajous figures. I had a lot of fun building it and creating the [video presentation](https://youtu.be/_66SNrt6bb0).
 
